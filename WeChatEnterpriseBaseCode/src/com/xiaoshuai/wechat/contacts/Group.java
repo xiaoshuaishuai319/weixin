@@ -1,9 +1,6 @@
 package com.xiaoshuai.wechat.contacts;
-
 import com.xiaoshuai.wechat.ParamesAPI.ParamesAPI;
 import com.xiaoshuai.wechat.ParamesAPI.WeixinUtil;
-
-
 /**
  * 通讯录部门管理类
  * 
